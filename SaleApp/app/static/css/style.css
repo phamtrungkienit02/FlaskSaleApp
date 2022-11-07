@@ -1,6 +1,7 @@
-body {
- background-color: lightblue;
+* {
+    font-family: Tahoma;
 }
-li {
 
+body {
+    background-color: lightblue;
 }

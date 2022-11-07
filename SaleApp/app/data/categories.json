@@ -1,10 +1,14 @@
-[{
-  "id": 1,
-  "name": "Điện thoại di động"
-}, {
-  "id": 2,
-  "name": "Máy tính bảng"
-}, {
-  "id": 3,
-  "name": "Máy tính bàn"
-}]
+[
+  {
+    "id": 1,
+    "name": "Điện thoại di động"
+  },
+  {
+    "id": 2,
+    "name": "Máy tính bảng"
+  },
+  {
+    "id": 3,
+    "name": "Máy tính bàn"
+  }
+]
